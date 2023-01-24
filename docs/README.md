@@ -1,4 +1,3 @@
-# tiddlywiki-store
 
 <br/>
 
