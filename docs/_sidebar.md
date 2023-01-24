@@ -17,6 +17,9 @@
    * [Limits](api/limits/README.md)
 * [FAQ](/faq/README.md)
 * [License](/license/README.md)
+   * repos
+     * docs-tiddlywiki-store
+   * libs
    * [BrowserStorage](/license/README.md) 
      * [Cookies](/license/README.md) 
      * [IndexedDB](/license/README.md) 
@@ -30,14 +33,24 @@
      * [Airtable](/license/README.md) 
      * [SeaTable](/license/README.md) 
      * [Grist](/license/README.md) 
+     * Gitlab
+     * GitHub
+     * Fission
+     * Tiddlywiki Host
      * [Baserow](/license/README.md) 
      * [GoogleDrive](/license/README.md) 
      * [StandardNote](/license/README.md) 
      * [SimpleNote](/license/README.md) 
      * [Back4App](/license/README.md) 
-      * [Google Spreadsheets](/license/README.md) 
+     * [Google Spreadsheets](/license/README.md) 
    * [DatabaseProvider](/license/README.md) 
      * [MongoDB](/license/README.md) 
+     * Orbit-db
+     * MySQL
+     * MariaDB
+     * POSTGRES
+     * SQLServer
+     * SQLite
    * [ProtocolProvider](/license/README.md) 
      * [SFTP](/license/README.md) 
      * [GIT](/license/README.md) 
