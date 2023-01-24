@@ -1,5 +1,5 @@
 
-## API Endpoints Side Client
+## Client
 
 #### Setup 
 ```html
