@@ -6,12 +6,6 @@
 
 <h1 align="center">rockapps.github.io</h5>
 
-<p align="center">
-   sitemap of tiddlywiki-store
-</p>
-
-<h1 align="center">tiddlywiki-store</h5>
-
 * [tiddlywiki-store](/README.md)
 * [Get Started](get-started/README.md)
 * [Contributors](contributors/README.md)
