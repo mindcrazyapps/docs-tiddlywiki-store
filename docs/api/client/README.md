@@ -32,12 +32,12 @@
 
 #### POST ProviderServiceName
 ```html
-<!-- have a button GET a click via AJAX -->
+<!-- have a button POST a click via AJAX -->
 <button hx-post="https://tiddlywiki-store.netlify.app/api/{DatabaseName}/{first|latest|all|list|view}" hx-value={obj|json|xml|html|txt} hx-swap="outerHTML"></button>
 ```
 
 #### POST StorageBrowser
 ```html
-<!-- have a button GET a click via AJAX -->
+<!-- have a button POST a click via AJAX -->
 <button hx-post="https://tiddlywiki-store.netlify.app/api/{StorageBrowser}/{first|latest|all|list|view}" hx-value={obj|json|xml|html|txt} hx-swap="outerHTML"></button>
 ```
