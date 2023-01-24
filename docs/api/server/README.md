@@ -1,5 +1,5 @@
 
-## API Endpoints Side Server
+## Server
 #### Get all database-type 
 GET: `api/database-type/` or `https://tiddlywiki-store.netlify.app/api/database-type/`
 
