@@ -12,6 +12,9 @@
 * [API Endpoints](api/README.md)
    * [Client](api/client/README.md)
    * [Server](api/server/README.md)
+      * database type
+      * protocol-networking
+      * service-provider-type
    * [Limits](api/limits/README.md)
 * [FAQ](/faq/README.md)
 * [License](/license/README.md)
