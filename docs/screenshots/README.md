@@ -1,4 +1,4 @@
-# <img src="./.../logo.svg"> tiddlywiki-store
+# Screenshots
 
 *use case: Select storage for your tiddlywiki with tiddlywiki-store (ui)*
 <img src="https://raw.githubusercontent.com/mindcrazyapps/uiux-tiddlywiki-store/main/screenshot/img2.png" alt="image"/>
