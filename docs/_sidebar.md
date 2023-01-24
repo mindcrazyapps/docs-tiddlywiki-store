@@ -5,6 +5,11 @@
 </p>
 
 <h1 align="center">Mindcrazyapps.github.io</h5>
+
+<p align="center">
+   this code is licensed under the MIT license with contributors
+</p>
+
 <h1 align="center">tiddlywiki-store</h5>
 
 * [Homepage](/README.md)
