@@ -1,7 +1,7 @@
 <!-- docs/_sidebar.md -->
 
 <p align="center">
- <img src="https://cdn-icons-png.flaticon.com/512/4334/4334124.png" alt="image" width="70px">
+ <img src="https://avatars.githubusercontent.com/u/123275718?s=200&v=4" alt="image" width="70px">
 </p>
 
 <h1 align="center">rockapps.github.io</h5>
