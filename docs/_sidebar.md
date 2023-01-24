@@ -4,7 +4,7 @@
  <img src="https://cdn-icons-png.flaticon.com/512/8947/8947740.png" alt="image" width="70px">
 </p>
 
-<h5 align="center">Mindcrazyapps.github.io</h5>
+<h1 align="center">Mindcrazyapps.github.io</h5>
 
 # tiddlywiki-store
 
