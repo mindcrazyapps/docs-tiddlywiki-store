@@ -19,6 +19,8 @@
 * [License](/license/README.md)
    * repos
      * docs-tiddlywiki-store
+     * api-tiddlywiki-store
+     * uiux-tiddlywiki-store
    * libs
    * [BrowserStorage](/license/README.md) 
      * [Cookies](/license/README.md) 
