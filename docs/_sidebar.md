@@ -7,7 +7,7 @@
 <h1 align="center">rockapps.github.io</h5>
 
 <p align="center">
-   this code is licensed under the MIT license with contributors
+   code is licensed under the MIT license and contributors
 </p>
 
 <h1 align="center">tiddlywiki-store</h5>
