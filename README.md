@@ -9,6 +9,4 @@
 
 <h4 align="center"> Please see this live demo <a href="https://tiddlywiki-store.netlify.app/"> here </a>  and the documentation <a href="https://mindcrazyapps.github.io/tiddlywiki-store/#/"> here </a> here </h3>
 
-
 # docs-tiddlywiki-store
-docs for tiddlywiki-store
