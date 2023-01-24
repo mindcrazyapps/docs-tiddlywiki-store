@@ -12,7 +12,7 @@
 
 <h1 align="center">tiddlywiki-store</h5>
 
-* [Homepage](/README.md)
+* [tiddlywiki-store](/README.md)
 * [Get Started](get-started/README.md)
 * [Contributors](contributors/README.md)
 * [API Endpoints](api/README.md)
