@@ -5,8 +5,7 @@
 </p>
 
 <h1 align="center">Mindcrazyapps.github.io</h5>
-
-# tiddlywiki-store
+<h1 align="center">tiddlywiki-store</h5>
 
 * [Homepage](/README.md)
 * [Get Started](get-started/README.md)
