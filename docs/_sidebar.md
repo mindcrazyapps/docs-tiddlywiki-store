@@ -14,6 +14,7 @@
 
 * [Homepage](/README.md)
 * [Get Started](get-started/README.md)
+* [Contributors](contributors/README.md)
 * [API Endpoints](api/README.md)
    * [Client](api/client/README.md)
    * [Server](api/server/README.md)
