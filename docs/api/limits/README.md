@@ -1,4 +1,4 @@
-# Settings
+# Limits
 | Type               	| Cookies            	| Local storage 	| Session Storage 	| Web SQL 	| Google Drive     	| Dropbox 	| NocoDB 	| Airtable 	| SeaTable | Grist  	| IndexDB  	| HistoryPush  	|
 |--------------------	|--------------------	|---------------	|-----------------	|---------	|------------------	|---------	|---------	|---------	|---------	|--------	|--------	|--------	|
 | Capacity           	| 4kb                	| 10mb          	| 5mb             	| add     	| 15GB in freeplan 	| 2GB     	| 2GB     	| 2GB     	| 2GB     	| 2GB    	| 2GB    	|2GB    	|
