@@ -16,6 +16,7 @@
    * [Server](api/server/README.md)
    * [Limits](api/limits/README.md)
 * [FAQ](/faq/README.md)
+* [License](/license/README.md)
 * [Screenshots](screenshots/README.md)
 * [Settings](settings/README.md)
 
