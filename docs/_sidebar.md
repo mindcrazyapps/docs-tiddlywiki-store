@@ -1,5 +1,6 @@
 <!-- docs/_sidebar.md -->
 
+* [Homepage](/README.md)
 * [FAQ](/faq/README.md)
 * [api](api/README.md)
    * [client](api/client/README.md)
