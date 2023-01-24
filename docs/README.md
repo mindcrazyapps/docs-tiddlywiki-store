@@ -12,8 +12,3 @@
 </p>
 
 <h4 align="center"> Please see this live demo <a href="https://tiddlywiki-store.netlify.app/"> here </a>  and the <a href="https://mindcrazyapps.github.io/tiddlywiki-store/#/"> documentation </a> here </h3>
-
-
-<a href="https://github.com/mindcrazyapps/tiddlywiki-store/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=mindcrazyapps/tiddlywiki-store" />
-</a>
