@@ -1,5 +1,7 @@
 <!-- docs/_sidebar.md -->
 
+# tiddlywiki-store
+
 * [Homepage](/README.md)
 * [Get Started](get-started/README.md)
 * [API Endpoints](api/README.md)
