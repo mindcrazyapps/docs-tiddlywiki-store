@@ -1,10 +1,10 @@
 <!-- docs/_sidebar.md -->
 
 <p align="center">
- <img src="https://cdn-icons-png.flaticon.com/512/8947/8947740.png" alt="image" width="70px">
+ <img src="https://cdn-icons-png.flaticon.com/512/4334/4334124.png" alt="image" width="70px">
 </p>
 
-<h1 align="center">Mindcrazyapps.github.io</h5>
+<h1 align="center">rockapps.github.io</h5>
 
 <p align="center">
    this code is licensed under the MIT license with contributors
