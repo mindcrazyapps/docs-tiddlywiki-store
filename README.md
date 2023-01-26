@@ -1,3 +1,5 @@
+# <img src="./logo.svg"> tiddlywiki-store
+
 ## docs-tiddlywiki-store
 documentation for plugin: tiddlywiki-store
 
