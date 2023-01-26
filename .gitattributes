@@ -1,1 +1,2 @@
-*.md linguist-detectable
+# Linguist overrides
+*.md linguist-detectable=true
