@@ -1,6 +1,6 @@
-# <img src="./logo.svg"> tiddlywiki-store
+# <img src="https://raw.githubusercontent.com/mindcrazyapps/uiux-tiddlywiki-store/main/logo.svg"> tiddlywiki-store
 
-## docs-tiddlywiki-store
+### docs-tiddlywiki-store
 documentation for plugin: tiddlywiki-store
 
 ## License
