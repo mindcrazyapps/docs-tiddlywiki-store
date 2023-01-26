@@ -1,3 +1,8 @@
+# Linguist overrides
+*.html linguist-vendored=false
+*.html linguist-generated=false
+*.html linguist-documentation=false
+*.html linguist-detectable=true
 *.md linguist-vendored=false
 *.md linguist-generated=false
 *.md linguist-documentation=false
