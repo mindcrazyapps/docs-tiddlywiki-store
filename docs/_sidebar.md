@@ -1,7 +1,7 @@
 <!-- docs/_sidebar.md -->
 
 <p align="center">
- <img src="https://avatars.githubusercontent.com/u/123275718?s=200&v=4" alt="image" width="70px">
+ <img src="https://raw.githubusercontent.com/mindcrazyapps/uiux-tiddlywiki-store/main/logo.svg" alt="image" width="70px">
 </p>
 
 <h1 align="center">Tiddlywiki-store</h5>
