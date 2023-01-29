@@ -7,7 +7,7 @@ documentation for plugin: tiddlywiki-store
 tiddlywiki-store is licensed under the MIT license and contributors
 
 ### screenshot
-![image](https://user-images.githubusercontent.com/123137817/215298008-332981e6-51f1-442d-b7e5-7f4acfdb4a60.png)
+![image](https://user-images.githubusercontent.com/123137817/215298340-0ddaedc4-1783-43f2-bf62-aed845551490.png)
 
 ### source-code
 ```markdown
