@@ -7,8 +7,7 @@ documentation for plugin: tiddlywiki-store
 tiddlywiki-store is licensed under the MIT license and contributors
 
 ### screenshot
-![image](https://user-images.githubusercontent.com/123137817/214374950-fb181327-bba0-4228-966b-d67003a89f93.png)
-
+![image](https://user-images.githubusercontent.com/123137817/215298008-332981e6-51f1-442d-b7e5-7f4acfdb4a60.png)
 
 ## About NextExperience
 
