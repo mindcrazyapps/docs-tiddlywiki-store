@@ -9,6 +9,11 @@ tiddlywiki-store is licensed under the MIT license and contributors
 ### screenshot
 ![image](https://user-images.githubusercontent.com/123137817/215298008-332981e6-51f1-442d-b7e5-7f4acfdb4a60.png)
 
+### source-code
+```markdown
+[tiddlywiki-store website](https://tiddlywiki-store-plugin.netlify.app/ ':include :type=iframe width=100% height=400px')
+```
+
 ## About NextExperience
 
 <img align="right" width="120" height="120" src="https://cdn-icons-png.flaticon.com/512/1600/1600856.png" hspace="50">
